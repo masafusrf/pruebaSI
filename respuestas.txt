@@ -12,3 +12,5 @@
 6. touch ../../edad.txt
 
 7. rm ../../tres/nombre.txt 
+
+8. mv ../../edad.txt edad2.txt
