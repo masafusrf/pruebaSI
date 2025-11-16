@@ -4,3 +4,5 @@
 2. cd examen && touch una/nombre.txt
 
 3. cd dos && cp ../una/nombre.txt ../tres
+
+4. cd ../ && mkdir dos/dosUna
