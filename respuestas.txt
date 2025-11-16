@@ -6,3 +6,5 @@
 3. cd dos && cp ../una/nombre.txt ../tres
 
 4. cd ../ && mkdir dos/dosUna
+
+5. cd dos/dosUna/
