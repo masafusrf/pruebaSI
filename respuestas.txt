@@ -2,3 +2,5 @@
     mkdir examen/una examen/dos examen/tres
 
 2. cd examen && touch una/nombre.txt
+
+3. cd dos && cp ../una/nombre.txt ../tres
