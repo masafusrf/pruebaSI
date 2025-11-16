@@ -9,4 +9,4 @@
 
 5. cd dos/dosUna/
 
-6. cd ../../ && touch edad.txt
+6. touch ../../edad.txt
