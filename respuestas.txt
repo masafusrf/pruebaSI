@@ -8,3 +8,5 @@
 4. cd ../ && mkdir dos/dosUna
 
 5. cd dos/dosUna/
+
+6. cd ../../ && touch edad.txt
